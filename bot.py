@@ -23,8 +23,8 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 # ---- CONFIG ----
-BOT_TOKEN = "ВСТАВЬТЕ_ТОКЕН_БОТА"
-GOOGLE_SHEET_ID = "ВСТАВЬТЕ_ID_ТАБЛИЦЫ"
+BOT_TOKEN = "8792456099:AAGmLl-wH4LqdOIcMbLTdO3v8lRERWX8pTc"
+GOOGLE_SHEET_ID = "1iLvKy1-qQcze5XZ9-Co-LaVO3jJDNavELzcdBSpR_Jo"
 CREDENTIALS_FILE = "credentials.json"
 
 # ---- STATES ----
